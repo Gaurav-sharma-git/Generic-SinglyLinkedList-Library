@@ -10,7 +10,7 @@ SinglyLinkedList *list1;
 SinglyLinkedList *list2;
 SinglyLinkedListIterator iter;
 list1=createSinglyLinkedList(&success);
-list1=createSinglyLinkedList(&success);
+list2=createSinglyLinkedList(&success);
 
 if(success==false)
 {
